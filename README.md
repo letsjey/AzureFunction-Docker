@@ -7,3 +7,6 @@ IDE used:
 Extensions implemented: 
 - Docker
 - Azure Function
+
+Documentation to support the repo!:
+- https://medium.com/azure-functions-with-docker
